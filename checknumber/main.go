@@ -1,11 +1,11 @@
 package main
 
 import (
-	// "fmt"
+	"fmt"
 )
 
 func main() {
 	// fmt.Println(CheckNumber("Hello"))
-	// fmt.Println(CheckNumber("Hello1"))
-	CheckNumber()
+	fmt.Println(CheckNumber("Hello1"))
+	// CheckNumber("HI")
 }
