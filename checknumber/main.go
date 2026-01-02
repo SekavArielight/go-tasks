@@ -7,5 +7,5 @@ import (
 func main() {
 	fmt.Println(CheckNumber("Hello"))
 	fmt.Println(CheckNumber("Hello1"))
-	// CheckNumber("HI")
+	fmt.Println(CheckNumber("234"))
 }
